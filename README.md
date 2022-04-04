@@ -10,6 +10,6 @@
     - objects
     - loops
     ```
-# **[CLICK THIS TO PLAY THE GAME](https://replit.com/@SobitPrasad/HOW-WELL-DO-YOU-KNOW-ME#index.js?embed=1&output1)**    
+# **[CLICK THIS TO PLAY THE GAME](https://replit.com/@SobitPrasad/HOW-WELL-DO-YOU-KNOW-ME?embed=1&output1&utm_source=pocket_mylist)**    
 
 ### **Love 💜 Sobit**
